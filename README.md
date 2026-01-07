@@ -1,19 +1,38 @@
-### Olá! Eu sou o Levi Nogueira 🖐️
+# Olá, eu sou o Levi Nogueira! 👋
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nogueiralevi400@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585997965660)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levinp4/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levinogueira)
+### 🚀 Desenvolvedor Back-end | Python & Automação
 
-![Levi Nogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=NogueiraLevi&show_icons=true&theme=dracula)
+Sou um estudante de **Sistemas de Informação** apaixonado por transformar processos manuais em soluções eficientes através de código. Meu foco principal é o desenvolvimento com **Python**, automação de tarefas e análise de dados.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NogueiraLevi&size_weight=0.5&count_weight=0.5)
+Atualmente, estou aprofundando meus conhecimentos em **Engenharia de Software** e **Inteligência Artificial** para criar aplicações que geram valor real.
 
-### Tecnologias que estou aprendendo/usando no meu dia 💻
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+### 🛠️ Tech Stack & Ferramentas
 
-Estudante de programação em busca de desafios e novos aprendizados.
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 Minha Frequência
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NogueiraLevi&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/levinogueira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nogueiradev0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
