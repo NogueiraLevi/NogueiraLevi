@@ -18,15 +18,6 @@ Atualmente, estou aprofundando meus conhecimentos em **Engenharia de Software** 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NogueiraLevi&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NogueiraLevi&layout=compact&theme=dracula" />
-</div>
-
----
-
 ### 📫 Vamos nos conectar?
 
 <div align="left">
