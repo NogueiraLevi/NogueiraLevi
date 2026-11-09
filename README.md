@@ -1,30 +1,28 @@
-# Olá, eu sou o Levi Nogueira! 👋
 
-### 🚀 Desenvolvedor Back-end | Python & Automação
+# Olá, eu sou Levi Nogueira! 👋
 
-Sou um estudante de **Sistemas de Informação** apaixonado por transformar processos manuais em soluções eficientes através de código. Meu foco principal é o desenvolvimento com **Python**, automação de tarefas e análise de dados.
+**Engenharia e Análise de Dados | Python • SQL • Power BI**
 
-Atualmente, estou aprofundando meus conhecimentos em **Engenharia de Software** e **Inteligência Artificial** para criar aplicações que geram valor real.
+### Sobre mim
 
----
+Sou estudante de **Sistemas de Informação na UNI7**, direcionando minha formação para **Engenharia e Análise de Dados**.
 
-### 🛠️ Tech Stack & Ferramentas
+Tenho conhecimentos em **Python e SQL**, com foco em manipulação, consulta e tratamento de dados. Atualmente, busco aprofundar minhas habilidades em bancos de dados relacionais, análise de informações e ferramentas voltadas ao ecossistema de dados.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+Meu objetivo é aplicar programação e análise de dados no desenvolvimento de soluções eficientes, transformando informações em conhecimento útil para a tomada de decisões.
 
 ---
 
-### 📫 Vamos nos conectar?
+### Tecnologias e Ferramentas
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/levinogueira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nogueiradev0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+![Python](https://img.shields.io/badge/Python-163B65?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-163B65?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-163B65?style=flat-square&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-163B65?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-163B65?style=flat-square&logo=linkedin&logoColor=white)](COLE_AQUI_SUA_URL_DO_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-163B65?style=flat-square&logo=github&logoColor=white)](https://github.com/NogueiraLevi)
