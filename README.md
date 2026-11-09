@@ -24,5 +24,5 @@ Meu objetivo é aplicar programação e análise de dados no desenvolvimento de 
 
 ### Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-163B65?style=flat-square&logo=linkedin&logoColor=white)](COLE_AQUI_SUA_URL_DO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-163B65?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/levinogueira)
 [![GitHub](https://img.shields.io/badge/GitHub-163B65?style=flat-square&logo=github&logoColor=white)](https://github.com/NogueiraLevi)
